@@ -1,4 +1,50 @@
+# 👋 Hello, I'm Hamza Miloud Amar
 
+## 🚀 About Me
+Passionate Frontend Developer | Creator of Pillar UI | React & Design Systems Enthusiast
+
+I'm a dedicated frontend developer with a love for creating clean, efficient, and maintainable user interfaces. My journey in web development has led me to specialize in React and its ecosystem, with a particular focus on building robust design systems that streamline the development process.
+
+## 🛠 Expertise
+- **Frontend Technologies**: React, Next.js, Remix
+- **Design Systems**: Creator of Pillar UI
+- **CSS Mastery**: Crafting clean, scalable, and maintainable stylesheets
+- **UI/UX**: Designing intuitive and responsive user interfaces
+
+## 🔭 Featured Project: Pillar UI
+I'm the proud creator of Pillar UI, a comprehensive set of packages and a design system that empowers developers to:
+- Accelerate project development
+- Maintain consistency across applications
+- Implement best practices in frontend architecture
+
+Pillar UI is designed to be the solid foundation upon which you can build your next great project, fast and efficiently.
+
+## 💡 Philosophy
+I believe in the power of clean code and well-structured CSS to create maintainable, scalable frontend solutions. My work reflects a commitment to:
+- Modular and reusable components
+- Performance optimization
+- Accessibility and inclusive design
+
+## 🌱 Always Learning & Growing
+The tech world never stands still, and neither do I. I'm constantly exploring:
+- Emerging frontend frameworks and libraries
+- Advanced CSS techniques and methodologies
+- New paradigms in design system architecture
+
+## 📫 Let's Connect
+- LinkedIn: [Your LinkedIn Profile]
+- Twitter: [@YourTwitterHandle]
+- Personal Blog: [Your Blog URL]
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🎯 Current Focus
+- Expanding Pillar UI with new components and features
+- Sharing knowledge through technical writing and open-source contributions
+- Collaborating on projects that push the boundaries of frontend development
+
+💡 "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-miloud-amar-463b24167) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9945662) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HamzaMiloudAma1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/hamzaamar) 
 
@@ -8,9 +54,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=HamzaAmar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HamzaAmar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAmar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HamzaAmar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HamzaAmar&icon=0&color=0)](https://visitcount.itsvg.in)
