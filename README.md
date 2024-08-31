@@ -1,11 +1,10 @@
 # 👋 Hello, I'm Hamza Miloud Amar
-
-## 🚀 About Me
 Passionate Frontend Developer | Creator of Pillar UI | React & Design Systems Enthusiast
 
 I'm a dedicated frontend developer with a love for creating clean, efficient, and maintainable user interfaces. My journey in web development has led me to specialize in React and its ecosystem, with a particular focus on building robust design systems that streamline the development process.
 
-## 🔭 Featured Project: Pillar UI
+## 🔭 Featured Project: [Pillar UI](https://www.pillar-ui.com/)
+
 I'm the proud creator of Pillar UI, a comprehensive set of packages and a design system that empowers developers to:
 - Accelerate project development
 - Maintain consistency across applications
