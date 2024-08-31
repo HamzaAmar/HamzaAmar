@@ -5,12 +5,6 @@ Passionate Frontend Developer | Creator of Pillar UI | React & Design Systems En
 
 I'm a dedicated frontend developer with a love for creating clean, efficient, and maintainable user interfaces. My journey in web development has led me to specialize in React and its ecosystem, with a particular focus on building robust design systems that streamline the development process.
 
-## 🛠 Expertise
-- **Frontend Technologies**: React, Next.js, Remix
-- **Design Systems**: Creator of Pillar UI
-- **CSS Mastery**: Crafting clean, scalable, and maintainable stylesheets
-- **UI/UX**: Designing intuitive and responsive user interfaces
-
 ## 🔭 Featured Project: Pillar UI
 I'm the proud creator of Pillar UI, a comprehensive set of packages and a design system that empowers developers to:
 - Accelerate project development
@@ -25,16 +19,11 @@ I believe in the power of clean code and well-structured CSS to create maintaina
 - Performance optimization
 - Accessibility and inclusive design
 
-## 🌱 Always Learning & Growing
-The tech world never stands still, and neither do I. I'm constantly exploring:
-- Emerging frontend frameworks and libraries
-- Advanced CSS techniques and methodologies
-- New paradigms in design system architecture
 
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourTwitterHandle]
-- Personal Blog: [Your Blog URL]
+- LinkedIn: [hamza-miloud-amar-463b24167](https://www.linkedin.com/in/hamza-miloud-amar-463b24167/)
+- Twitter: [@HamzaMiloudAma1](https://x.com/HamzaMiloudAma1)
+- Personal Blog: [MiloudAmar](https://www.miloudamar.com/)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -55,7 +44,4 @@ The tech world never stands still, and neither do I. I'm constantly exploring:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HamzaAmar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAmar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=HamzaAmar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
