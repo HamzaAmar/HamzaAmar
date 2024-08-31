@@ -11,7 +11,18 @@ I'm the proud creator of Pillar UI, a comprehensive set of packages and a design
 - Maintain consistency across applications
 - Implement best practices in frontend architecture
 
-Pillar UI is designed to be the solid foundation upon which you can build your next great project, fast and efficiently.
+Pillar UI is designed with modern web development needs in mind, offering:
+- 🌓 Seamless Dark Mode support
+- 🌐 RTL (Right-to-Left) language compatibility
+- ♿ Full accessibility compliance
+- 🖥️ Windows high contrast mode support
+- 🎨 Customizable theming
+- 📱 Responsive design out of the box
+- 🚀 Performance-optimized components
+- 📚 Comprehensive documentation
+- 🪶 Lightweight, with minimal bundle size impact
+
+Whether you're building a small project or a large-scale application, Pillar UI provides the solid foundation you need to create beautiful, functional, and inclusive user interfaces without compromising on performance.
 
 ## 💡 Philosophy
 I believe in the power of clean code and well-structured CSS to create maintainable, scalable frontend solutions. My work reflects a commitment to:
@@ -25,23 +36,7 @@ I believe in the power of clean code and well-structured CSS to create maintaina
 - Twitter: [@HamzaMiloudAma1](https://x.com/HamzaMiloudAma1)
 - Personal Blog: [MiloudAmar](https://www.miloudamar.com/)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 🎯 Current Focus
-- Expanding Pillar UI with new components and features
-- Sharing knowledge through technical writing and open-source contributions
-- Collaborating on projects that push the boundaries of frontend development
 
-💡 "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-miloud-amar-463b24167) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9945662) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HamzaMiloudAma1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/hamzaamar) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HamzaAmar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HamzaAmar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAmar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
